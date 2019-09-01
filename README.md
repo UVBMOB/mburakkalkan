@@ -1,1 +1,1 @@
-# mburakkalkan
+# Hafta 1 Ödev: Half-Normal Distribution
